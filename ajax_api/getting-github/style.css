@@ -1,0 +1,10 @@
+#userCardContainer{
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+img{
+    width: 250px;
+    height: auto;
+}
